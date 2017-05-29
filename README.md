@@ -1,7 +1,7 @@
 # micro-clock
 ### *A simple real-time clock/alarm clock for the PIC18F8722*.
 
-This project was part of an optional mini-project as part of my second year microcontroller engineering module. The aim was to produce a fully-functioning real-time clock/alarm clock based upon the hardware provided by the department, with additional features and functionality as optional extras.
+This is an optional mini-project, carried out as part of a second year microcontroller engineering module. The aim was to produce a fully-functioning real-time clock/alarm clock based upon the hardware provided by the department, with additional features and functionality as optional extras.
 
 **This code is presented here as-is.** Please feel free to look through, re-use or take inspiration from any aspects of it.
 
